@@ -13,7 +13,7 @@ As an introduction to debugging:
 
 Answer the following questions:
 1. What is the purpose of a breakpoint?
-
+The purpose of a breakpoint is:
 2. Does the line of code on a breakpoint run when you start debugging?
 
 3. How do we debug the next line of code?
